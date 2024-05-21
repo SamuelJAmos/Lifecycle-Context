@@ -2,11 +2,11 @@
 
 ## Intro
 
-So you have an app or website you want to create? Here are some high-level practices to follow/consider depending on how detailed the project needs to be. This will set you up for success. Think of the more important things relating to the project, such as the problems to be solved. Instead of thinking about where do I start or what do I do next.
+Are you gearing up to create a new app or website? Here, you'll find high-level practices and strategic insights tailored to guide your project's complexity. This guide is designed to steer you towards success, helping you focus on critical aspects such as problem-solving rather than getting overwhelmed by the process.
 
-My reason for writing this is simple. I'm a fool. I always have been and always will be. I want to try to organize something helpful for me and maybe one day it'll reach others and help them break through some of the issues that have cost me a lot of time, headaches, and confusion. 
+I wrote this because this process has given a lot of stress. Mistakes were made, lessons were learned, and too many headaches were had. By sharing these insights, I hope not only to organize my thoughts but also to aid others who might find themselves facing similar challenges.
 
-This is going to be rather opinionated. I will break down the high-level examples as appropriate.
+Expect a straightforward approach here. We’ll dive into essential phases like Discovery, Design, and Development, discussing what each entails and how they contribute to a successful product. This guide is built from my experiences—it’s opinionated but grounded in real-world applications.
 
 ## Table of Contents
 
@@ -50,4 +50,4 @@ This is going to be rather opinionated. I will break down the high-level example
    * Success Metrics Evaluation
    * Project Retrospective and Lessons Learned
 
-[^1]: **Vertical Slicing**: A development approach where features are divided into smaller, manageable pieces that include all application layers—from user interface to database. This method facilitates Agile practices by allowing for iterative development and testing of complete features, ensuring efficient progress, faster feedback, and high-quality outputs.
+[^1]:**Vertical Slicing**: A development approach where features are divided into smaller, manageable pieces that include all application layers—from user interface to database. This method facilitates Agile practices by allowing for iterative development and testing of complete features, ensuring efficient progress, faster feedback, and high-quality outputs.
