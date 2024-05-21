@@ -30,9 +30,9 @@ This project exemplifies how targeted digital solutions can bridge information g
 
 ## <a id="stakeholder-interviews"></a>Stakeholder Interviews
 ### Overview
-Stakeholder interviews are a critical component of the Discovery Phase, serving as a key method for gathering insights and setting expectations. These interviews involve engaging with individuals who have a vested interest in the project—ranging from project sponsors and end-users to external partners and regulatory bodies. The primary purpose of these discussions is to collect valuable feedback on project goals, uncover potential challenges, and align project objectives with the needs and expectations of all parties involved.
+**Stakeholder interviews** are a critical component of the Discovery Phase, serving as a key method for gathering insights and setting expectations. These interviews involve engaging with individuals who have a **vested interest** in the project—ranging from project sponsors and end-users to external partners and regulatory bodies. The primary purpose of these discussions is to collect valuable feedback on project goals, uncover potential challenges, and align project objectives with the needs and expectations of all parties involved.
 
-By conducting thorough stakeholder interviews, project teams can ensure that the project’s direction is informed by a diverse range of perspectives, significantly enhancing the project's likelihood of success. This process not only helps in identifying and understanding the requirements and concerns of stakeholders but also in building relationships that facilitate smoother project execution.
+By conducting thorough **stakeholder interviews**, project teams can ensure that the project’s direction is informed by a diverse range of perspectives, significantly enhancing the project's likelihood of success. This process not only helps in identifying and understanding the requirements and concerns of stakeholders but also in building relationships that facilitate smoother project execution[^4].
 
 ### Steps to Conduct Effective Interviews
 - Identifying key stakeholders
@@ -41,6 +41,8 @@ By conducting thorough stakeholder interviews, project teams can ensure that the
 
 ### Inspiration
 Discuss a scenario where stakeholder insights significantly influenced the project direction.
+
+[^4]: Stakeholder interviews are part of stakeholder management, which is essential for managing expectations and fostering collaboration throughout the project lifecycle. These interviews provide direct insights into stakeholder needs and priorities, which are crucial for mitigating risks associated with stakeholder engagement.
 
 ## <a id="budget-and-resources-planning"></a>Budget and Resources Planning
 ### Overview
