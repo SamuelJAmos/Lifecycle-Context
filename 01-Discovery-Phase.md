@@ -20,7 +20,7 @@ The **Discovery Phase** is the initial stage of any project development process,
 ### Inspiration
 Our redesign of the **school bond.news** site was driven by the need to provide **K-12 Administrators, Solution Providers, State Leaders, and Policy Makers** with structured, accurate data on bond elections and trends. The core problem we addressed is the difficulty these stakeholders face in accessing specialized, timely information that can guide their decisions effectively.
 
-This platform is not just an information hub but a strategic tool designed to funnel users towards a **demo CTA**[^4] for our comprehensive bond tracking product. By offering just enough valuable data on the public site, we entice users to explore deeper insights through a demo, ideally converting them into paying customers.
+This platform is not just an information hub but a strategic tool designed to funnel users towards a **demo CTA**[^3] for our comprehensive bond tracking product. By offering just enough valuable data on the public site, we entice users to explore deeper insights through a demo, ideally converting them into paying customers.
 
 The expected outcome is twofold: users find the essential data they seek, prompting further engagement through our demo, and our organization extends its market reach and updates its online presence, aligning with our broader business goals of **growth** and **modernization**.
 
