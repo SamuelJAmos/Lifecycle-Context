@@ -1,13 +1,13 @@
-## Design Phase
-### Intro
+# Design Phase
 
+## Introduction
 The Design Phase is a crucial part of the project development process, focused on transforming the insights and requirements gathered during the Discovery Phase into tangible design solutions. This phase aims to create a user-centered design that addresses identified problems and meets stakeholder expectations through systematic research, ideation, and validation. The following sub-sections outline the key activities and deliverables in the Design Phase.
 
 ---
 
-#### Research
+## Research
 
-**Overview:**  
+### **Overview:**  
 Research in the Design Phase builds upon the initial findings from the Discovery Phase. It involves deeper exploration of user behaviors, preferences, and trends to inform the design decisions. This step ensures that the design solutions are grounded in real-world data and user insights.
 
 **Key Steps/Elements:**
