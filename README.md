@@ -31,7 +31,7 @@ Expect a straightforward approach here. We’ll dive into essential phases like 
    - [Unit Testing](./03-Integrated-Development-and-Testing-Phase.md#unit-testing)
    - [Integration Testing](./03-Integrated-Development-and-Testing-Phase.md#integration-testing)
    - [System Testing](./03-Integrated-Development-and-Testing-Phase.md#system-testing)
-   - [User Acceptance Testing (UAT)](./03-Integrated-Development-and-Testing-Phase.md#user-acceptance-testing-uat)
+   - [User Acceptance Testing (UAT)](./03-Integrated-Development-and-Testing-Phase.md#user-acceptance-testing)
 4. **[Deployment](./04-Deployment.md)**
    - [Final Pre-Launch Checks](./04-Deployment.md#final-pre-launch-checks)
    - [Production Environment Setup](./04-Deployment.md#production-environment-setup)
