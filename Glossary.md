@@ -68,6 +68,8 @@
 - **Task Analysis (02)**: Breaking down user interactions into manageable steps to better understand their needs.
 - **Technical and Market Feasibility (01)**: Assessing whether the project is viable from both a technical and market perspective.
 - **Timeline and Milestones (01)**: Developing a detailed timeline that includes key milestones to track project progress.
+
+### U
 - **Unit Testing (03)**: Testing individual components or functions of an application to ensure they work correctly in isolation.
 - **User Acceptance Testing (UAT) (03)**: The final phase of testing where end-users validate the application against their requirements and expectations.
 - **User Flows (02)**: Diagrams that map out the steps a user takes to accomplish a specific task within the product.
@@ -77,6 +79,3 @@
 
 ### W
 - **Wireframing (02)**: Creating low-fidelity visual representations of the product's layout to focus on the placement of elements and functionality without detailed design.
-
-This glossary compiles essential terms and concepts used throughout the Digital Product Development Lifecycle, providing a quick reference to understand key aspects of the process and the phases in which they are referenced.
-
