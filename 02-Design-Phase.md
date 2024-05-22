@@ -1,7 +1,7 @@
 # Design Phase
 
 ## Introduction
-The Design Phase is a crucial part of the project development process, focused on transforming the insights and requirements gathered during the Discovery Phase into tangible design solutions. This phase aims to create a user-centered design that addresses identified problems and meets stakeholder expectations through systematic research, ideation, and validation. The following sub-sections outline the key activities and deliverables in the Design Phase.
+The **Design Phase** is a crucial part of the project development process, focused on transforming the insights and requirements gathered during the Discovery Phase into tangible design solutions. This phase aims to create a user-centered design that addresses identified problems and meets stakeholder expectations through systematic research, ideation, and validation. The following sub-sections outline the key activities and deliverables in the Design Phase.
 
 ---
 
@@ -50,7 +50,9 @@ User personas are fictional characters created based on research to represent di
 - Example of a user persona document that guided the design of a mobile app[^10].
 - Case study on how user personas improved product alignment with user needs[^11].
 
-[^6]: User personas are derived from real data and help in creating empathy with users.
+[^6]: User
+
+ personas are derived from real data and help in creating empathy with users.
 [^7]: Qualitative data includes interviews and observations; quantitative data includes surveys and analytics.
 [^8]: Detailed profiles help in understanding diverse user needs and designing for them.
 [^9]: Scenarios illustrate typical user interactions and help in identifying usability issues.
@@ -171,4 +173,4 @@ User testing is the process of evaluating the product's usability by observing r
 
 ## Conclusion
 
-The Design Phase translates the research and requirements from the Discovery Phase into actionable and testable design solutions. By focusing on user-centered research, creating detailed personas and user flows, developing wireframes and prototypes, and conducting thorough user testing, the Design Phase ensures that the final product is both functional and user-friendly. This phase is critical for identifying and resolving potential issues early, saving time and resources in later stages of development. The iterative nature of design and testing helps in refining the product to best meet user needs and business goals, setting a strong foundation for the subsequent Development and Testing Phase.
+The **Design Phase** translates the research and requirements from the Discovery Phase into actionable and testable design solutions. By focusing on user-centered research, creating detailed personas and user flows, developing wireframes and prototypes, and conducting thorough user testing, the Design Phase ensures that the final product is both functional and user-friendly. This phase is critical for identifying and resolving potential issues early, saving time and resources in later stages of development. The iterative nature of design and testing helps in refining the product to best meet user needs and business goals, setting a strong foundation for the subsequent Development and Testing Phase.
