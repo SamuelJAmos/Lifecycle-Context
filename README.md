@@ -224,6 +224,10 @@ This Quick Start Guide allows you to prioritize the sections that are most relev
 
 ---
 
+ **[Glossary](./Glossary.md)**
+
+---
+
 #### Recommendations for Further Enhancement (For Discovery Phase)
 1. Visual Aids: Incorporate diagrams, charts, and other visual aids to illustrate key points, such as Gantt charts for timelines or stakeholder matrices for identifying key stakeholders.
 
