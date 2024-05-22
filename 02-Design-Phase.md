@@ -131,7 +131,6 @@ Prototyping involves creating interactive models of the product to test function
 - Example of a low-fidelity prototype for early user testing[^28].
 - Case study showing how prototyping reduced development time by identifying issues early[^29].
 
-**Footnotes:**
 [^24]: Prototyping allows for early detection of usability issues and facilitates user-centered design.
 [^25]: Interactive prototypes help in visualizing and testing user interactions.
 [^26]: Usability testing provides direct insights into user interactions and pain points.
