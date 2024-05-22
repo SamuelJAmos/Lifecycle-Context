@@ -24,7 +24,6 @@ Research in the Design Phase builds upon the initial findings from the Discovery
 - Case study of a successful product redesign driven by in-depth user research[^4].
 - Example of competitive analysis that identified unique design opportunities[^5].
 
-**Footnotes:**
 [^1]: Secondary research involves reviewing existing data to gather insights without direct user interaction.
 [^2]: SWOT analysis helps in understanding the competitive position and strategic planning.
 [^3]: Trend analysis involves studying current and emerging patterns to forecast future user preferences.
@@ -51,7 +50,6 @@ User personas are fictional characters created based on research to represent di
 - Example of a user persona document that guided the design of a mobile app[^10].
 - Case study on how user personas improved product alignment with user needs[^11].
 
-**Footnotes:**
 [^6]: User personas are derived from real data and help in creating empathy with users.
 [^7]: Qualitative data includes interviews and observations; quantitative data includes surveys and analytics.
 [^8]: Detailed profiles help in understanding diverse user needs and designing for them.
@@ -79,7 +77,6 @@ User flows are diagrams that map out the steps a user takes to accomplish a spec
 - Example of a user flow for an e-commerce checkout process[^16].
 - Case study showing how user flows helped streamline a complex process in a software application[^17].
 
-**Footnotes:**
 [^12]: User flows provide a visual representation of the user's journey and highlight potential improvement areas.
 [^13]: Task analysis breaks down user interactions into manageable steps for better understanding.
 [^14]: Flowcharts help in visualizing and optimizing user pathways.
@@ -107,7 +104,6 @@ Wireframing is the process of creating low-fidelity visual representations of th
 - Example wireframe of a homepage layout[^22].
 - Case study on how iterative wireframing improved the user interface of a mobile app[^23].
 
-**Footnotes:**
 [^18]: Wireframing helps in focusing on the structure and functionality without the distraction of visual design.
 [^19]: Sketching allows for quick exploration of different design ideas.
 [^20]: Digital wireframes provide a more detailed and accurate representation of the layout.
@@ -164,7 +160,6 @@ User testing is the process of evaluating the product's usability by observing r
 - Example of a usability test report highlighting key findings and recommendations[^35].
 - Case study on how user testing led to significant improvements in a web application’s usability[^36].
 
-**Footnotes:**
 [^30]: User testing is critical for validating design decisions and ensuring the product meets user needs.
 [^31]: Planning ensures that the testing process is structured and focused.
 [^32]: Recruiting representative participants ensures the feedback is relevant and actionable.
