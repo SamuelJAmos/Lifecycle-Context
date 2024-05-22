@@ -7,7 +7,7 @@ The Design Phase is a crucial part of the project development process, focused o
 
 ## Research
 
-### **Overview:**  
+### Overview 
 Research in the Design Phase builds upon the initial findings from the Discovery Phase. It involves deeper exploration of user behaviors, preferences, and trends to inform the design decisions. This step ensures that the design solutions are grounded in real-world data and user insights.
 
 **Key Steps/Elements:**
@@ -33,9 +33,9 @@ Research in the Design Phase builds upon the initial findings from the Discovery
 
 ---
 
-#### User Personas
+## User Personas
 
-**Overview:**  
+### Overview   
 User personas are fictional characters created based on research to represent different user types who might use the product in a similar way. They help in understanding user needs, experiences, behaviors, and goals, ensuring the design is user-centered[^6].
 
 **Key Steps/Elements:**
@@ -61,9 +61,9 @@ User personas are fictional characters created based on research to represent di
 
 ---
 
-#### User Flows
+## User Flows
 
-**Overview:**  
+### Overview 
 User flows are diagrams that map out the steps a user takes to accomplish a specific task within the product. They help in understanding the user's journey and identifying any potential friction points[^12].
 
 **Key Steps/Elements:**
@@ -89,9 +89,9 @@ User flows are diagrams that map out the steps a user takes to accomplish a spec
 
 ---
 
-#### Wireframing
+## Wireframing
 
-**Overview:**  
+### Overview   
 Wireframing is the process of creating low-fidelity visual representations of the product's layout. It focuses on the placement of elements and functionality without getting into detailed design[^18].
 
 **Key Steps/Elements:**
@@ -117,9 +117,9 @@ Wireframing is the process of creating low-fidelity visual representations of th
 
 ---
 
-#### Prototyping
+## Prototyping
 
-**Overview:**  
+### Overview 
 Prototyping involves creating interactive models of the product to test functionality and gather user feedback. Prototypes can range from low-fidelity (clickable wireframes) to high-fidelity (interactive mockups)[^24].
 
 **Key Steps/Elements:**
@@ -145,9 +145,9 @@ Prototyping involves creating interactive models of the product to test function
 
 ---
 
-#### User Testing
+## User Testing
 
-**Overview:**  
+### Overview 
 User testing is the process of evaluating the product's usability by observing real users as they interact with the prototype. It helps in identifying usability issues and gathering feedback to improve the design[^30].
 
 **Key Steps/Elements:**
@@ -172,7 +172,3 @@ User testing is the process of evaluating the product's usability by observing r
 [^34]: Analyzing test results helps in prioritizing design changes and improvements.
 [^35]: Usability test reports provide detailed insights into user behavior and feedback.
 [^36]: Improvements based on user testing enhance overall user satisfaction and product usability.
-
----
-
-This structured approach ensures that each sub-section within the Design Phase is thoroughly documented, providing clear guidance and actionable insights for the design process.
